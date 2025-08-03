@@ -3,7 +3,7 @@
 A Chrome extension designed to simplify working with content-heavy websites like Studocu. This tool provides two main features:
 
 🎥 **Watch the demo on Google Drive:**  
-👉 [Click here to view the video]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1ebSGT1EnHq5aTm7WiKZEGIzZwEO_tJcF/view?usp=drive_link))
+👉 [Click here to view the video](https://drive.google.com/file/d/1ebSGT1EnHq5aTm7WiKZEGIzZwEO_tJcF/view?usp=drive_link)
 
 ## 🚀 Features
 
